@@ -1,4 +1,4 @@
-Software developer at LightVPN, I really only write stuff in C#.
+Full-stack developer at LightVPN (cs, py, html, css)
 
 ### Stats
 
