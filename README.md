@@ -1,4 +1,4 @@
-Full-stack developer at LightVPN (cs, py, html, css)
+cs (py, html, css) dev
 
 ### Stats
 
