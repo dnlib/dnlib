@@ -1,4 +1,4 @@
-cs (py, html, css) dev
+sub-mediocre c-sharp developer
 
 ### Stats
 
