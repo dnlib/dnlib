@@ -1,4 +1,9 @@
-sub-mediocre c-sharp developer
+I've worked on:
+- FiveM client & server side scripts in C# (lua is bad)
+- WPF/WinForms desktop applications
+- Blazor server-side web applications
+- Website frontends using Bootstrap
+- Libraries to support development of websites using Blazor & to support regular application development
 
 ### Stats
 
