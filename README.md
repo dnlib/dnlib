@@ -1,4 +1,5 @@
 ### I've worked on:
+- FiveM client & server side scripts
 - WPF/WinForms desktop applications
 - Blazor server-side web applications 
 - ASP.NET Web API & Razor web applications
